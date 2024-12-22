@@ -12,7 +12,9 @@ Utilizei o "ChatGPT" para pesquisas sobre o assunto abordado e estruturação. P
 
 🚀 Resultados
 O e-book apresenta um conteúdo básico e interessante sobre IA Generativa, apresentando imagens criadas pela própria IA, demonstrando suas funcionalidades no cotidiano, na educação e no mundo do trabalho.
+
 LINK PARA O E-BOOK AQUI:
+
 [IA Generativa, seus recursos e o mundo do trabalho.docx](https://github.com/user-attachments/files/18223264/IA.Generativa.seus.recursos.e.o.mundo.do.trabalho.docx)
 
 💭 Reflexão
